@@ -45,4 +45,8 @@ public class User {
     public void setSchool(String school) {
         this.school = school;
     }
+
+    private void customMethod(){
+
+    }
 }
