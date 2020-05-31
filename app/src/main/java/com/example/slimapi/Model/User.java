@@ -46,7 +46,4 @@ public class User {
         this.school = school;
     }
 
-    private void customMethod(){
-
-    }
 }
